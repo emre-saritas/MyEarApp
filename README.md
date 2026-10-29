@@ -32,3 +32,7 @@ app/src/main/java/com/ee_ys2/myear/
 ├── VisualizerView.java   # audio visualizer
 └── WebManager.java       # HTTP client for the back-end
 ```
+
+## License
+
+[MIT](LICENSE)
